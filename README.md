@@ -7,5 +7,9 @@ AMIs older than 7 days should be removed.
 The full list of AMIs should be printed on the final output - the old ones should be highlighted yellow, new ones - by green colors.
 
 Push the final code version to a public GitHub repository and share URL link to it.
- Junior Devops Engineer
+
+PS: test job for  Junior Devops Engineer
  
+PS2: There are 3 EC2 - instances and few backups(AMI + snapshots) on  training virtual AWS machine (user: ec2oregon).After checking the task, let me know - it will be necessary to delete all testing environment
+
+PS3: There is a copy of this script on instance i-03a60c4e51e0744af , /home/ec2-user/1.sh 
